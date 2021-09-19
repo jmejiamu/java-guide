@@ -3,11 +3,12 @@ package javaguide;
 
 /**
  *
- * @author JoseMejia62 
+ * @author JoseMejia62
  */
-public class Variables {
-    public static void variablesBasic(){
-         // -  VARIABLES
+public class Main {
+
+    public static void main(String[] args) {
+        // -  VARIABLES
         
         String greeting = "Hello";
         
@@ -18,5 +19,8 @@ public class Variables {
         final String name = "JoseMejia62";
         
         System.out.println(greeting+ ", " + name + "!");
+        Variables.variablesBasic();
+        
     }
+    
 }
