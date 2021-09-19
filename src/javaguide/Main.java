@@ -8,7 +8,7 @@ package javaguide;
 public class Main {
 
     public static void main(String[] args) {
-        // - Call variables method
+        // - Call Variables method
         Variables.variablesBasic();
         
     }
