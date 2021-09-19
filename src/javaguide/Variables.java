@@ -5,7 +5,7 @@ package javaguide;
  *
  * @author JoseMejia62
  */
-public class JavaGuide {
+public class Variables {
 
     public static void main(String[] args) {
         // -  VARIABLES
@@ -19,6 +19,7 @@ public class JavaGuide {
         final String name = "JoseMejia62";
         
         System.out.println(greeting+ ", " + name + "!");
+        
     }
     
 }
