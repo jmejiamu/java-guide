@@ -12,10 +12,13 @@ public class Main {
         //Variables.variablesBasic();
         
         // Casting Widening
-        Casting.wideningCasting();
+        //Casting.wideningCasting();
         
         // Narrowing Casting
-        Casting.narrowCasting();
+        //Casting.narrowCasting();
+        
+        //Operator
+        Operartor.basicOperator();
     }
     
 }
