@@ -11,8 +11,11 @@ public class Main {
         // - Call Variables method
         //Variables.variablesBasic();
         
-        // Casting 
-        Casting.CastingBasic();
+        // Casting Widening
+        Casting.wideningCasting();
+        
+        // Narrowing Casting
+        Casting.narrowCasting();
     }
     
 }
