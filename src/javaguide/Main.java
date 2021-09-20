@@ -9,8 +9,10 @@ public class Main {
 
     public static void main(String[] args) {
         // - Call Variables method
-        Variables.variablesBasic();
+        //Variables.variablesBasic();
         
+        // Casting 
+        Casting.CastingBasic();
     }
     
 }
