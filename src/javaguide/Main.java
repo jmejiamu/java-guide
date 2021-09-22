@@ -18,7 +18,10 @@ public class Main {
         //Casting.narrowCasting();
         
         //Operator
-        Operartor.basicOperator();
+        //Operartor.basicOperator();
+        
+        //String Manipulation
+        StringManipulation.stringBasic();
     }
     
 }
