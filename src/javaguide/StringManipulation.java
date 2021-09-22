@@ -15,4 +15,14 @@ public class StringManipulation {
         
         System.out.println("Concat two Strings " + greeting.concat(follow) );
     }
+    
+    public static void stringSpecialChar(){
+        //TODO do this commit
+        String text = "Joe\'s car";
+        String path = "\\home\\username";
+        
+        System.out.println("Text " + text + "\n" + "next line");
+        System.out.println("Testing path " + path);
+    }
+    
 }

@@ -22,6 +22,10 @@ public class Main {
         
         //String Manipulation
         StringManipulation.stringBasic();
+        
+        //String Manipulation special character
+        StringManipulation.stringSpecialChar();
+        
     }
     
 }
