@@ -26,7 +26,9 @@ public class Main {
         //String Manipulation special character
         //StringManipulation.stringSpecialChar();
         
+        //If statement
         IfElse.ifElseStatement();
+        IfElse.ternaryOperator();
     }
     
 }
