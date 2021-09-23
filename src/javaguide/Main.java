@@ -21,11 +21,12 @@ public class Main {
         //Operartor.basicOperator();
         
         //String Manipulation
-        StringManipulation.stringBasic();
+        //StringManipulation.stringBasic();
         
         //String Manipulation special character
-        StringManipulation.stringSpecialChar();
+        //StringManipulation.stringSpecialChar();
         
+        IfElse.ifElseStatement();
     }
     
 }
