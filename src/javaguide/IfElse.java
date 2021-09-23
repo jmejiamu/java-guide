@@ -14,5 +14,17 @@ public class IfElse {
         }else{
             System.out.println("You Cannot Enter!"); // run this is the condition return false
         }
+        
+
+    }
+    
+    public static void ternaryOperator (){
+        int youngerAge = 16;
+        int adultAge = 25;
+        
+        //Ternary Operator
+        String authorization = (youngerAge > 18) ? "Enter Please!" : "You cannot Enter!";
+        
+        System.out.println(authorization);
     }
 }
