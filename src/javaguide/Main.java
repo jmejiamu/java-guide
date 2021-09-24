@@ -27,8 +27,11 @@ public class Main {
         //StringManipulation.stringSpecialChar();
         
         //If statement
-        IfElse.ifElseStatement();
-        IfElse.ternaryOperator();
+        //IfElse.ifElseStatement();
+        //IfElse.ternaryOperator();
+        
+        // Loops
+        Loops.whileAndForLoops();
     }
     
 }
