@@ -31,7 +31,11 @@ public class Main {
         //IfElse.ternaryOperator();
         
         // Loops
-        Loops.whileAndForLoops();
+        //Loops.whileAndForLoops();
+        
+        //Continue and Break
+        ContinueBreak.breakExample();
+        ContinueBreak.continueExample();
     }
     
 }
